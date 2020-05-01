@@ -26,8 +26,13 @@ Mixed chord arc is a routing algorithm for Delaunay Triangulation.
 </dblp>
 
 
-# setUp
+# setup
 
 To run the program you only need to have python 3.X installed and also install Tkinter library.
 
 sudo apt-get install python python3-tk
+
+# project report
+
+you can find my report through the following link <a href="https://www.overleaf.com/read/fkvshwsvtxxq"> My report CSI5127 Project</a>
+
